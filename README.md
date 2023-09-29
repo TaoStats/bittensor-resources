@@ -1,4 +1,4 @@
-# bittensor-resources
+# Bittensor Resources from Taostats
 
 An ever growing set of useful tips, tools, tutorials and scripts for usage on the Bittensor Network.
 
