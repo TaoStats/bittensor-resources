@@ -4,7 +4,7 @@
 
 1. Download the Bittensor yaml file they made with all depenencies: [Bittensor YAML file](https://github.com/opentensor/bittensor/blob/master/scripts/environments/apple_m1_environment.yml)
 
-2. If you don't have Conda (miniconda is fine it is conda and python, all you need) installed, do so here: [Downlad Miniconda](https://docs.conda.io/projects/miniconda/en/latest/) I did the Apple M1 bash script to my machine then ran it form there.
+2. If you don't have Conda (miniconda is fine it is conda and python, all you need) installed, do so here: [Download Miniconda](https://docs.conda.io/projects/miniconda/en/latest/) I did the Apple M1 bash script to my machine then ran it form there.
 
 3. Create the conda environemt: `conda env create -f apple_m1_environment.yml` - i am going to assume those dependencies are pretty much the same for windows too.
 
