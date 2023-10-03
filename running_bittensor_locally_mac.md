@@ -49,3 +49,7 @@
 
 `python3 -m pip install -e .`
 
+
+## Misc
+
+Configure mac terminal to look as good as mine - [Find out how here](https://www.youtube.com/watch?v=CF1tMjvHDRA)
