@@ -1,4 +1,4 @@
-# Running Bittensor locally on your Mac
+# Running Bittensor locally on your Mac (or Windows)
 
 ## Install and setup Conda
 
