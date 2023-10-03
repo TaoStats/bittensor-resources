@@ -8,7 +8,7 @@
 
 3. Create the conda environemt: `conda env create -f apple_m1_environment.yml` - i am going to assume those dependencies are pretty much the same for windows too.
 
-4. Activate the new environment: `conda activate bittensor`
+4. Activate the new environment: `conda activate bittensor` (remember this command, you will need to do it for each new terminal session)
 
 5. Verify that the new environment was installed correctly: `conda env list`
 
