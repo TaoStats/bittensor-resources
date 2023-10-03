@@ -31,15 +31,21 @@
 10. Update Bittensor to latest version
 
 `git fetch origin main`
+
 `git checkout main`
+
 `git pull `
+
 `python3 -m pip install -e .`
 
 
 11. Switch to another branch of Bittensor and back
 
 `git fetch origin revolution`
+
 `git checkout revolution`
+
 `git pull `
+
 `python3 -m pip install -e .`
 
