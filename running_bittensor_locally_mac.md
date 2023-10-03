@@ -22,7 +22,7 @@
 
 ## Using Bittensor locally
 
-8. Regenerate or Generate your keys (accounts)
+8. Regenerate or Generate your keys (`btcli w new_coldkey`/`btcli w new_hotkey` or `btcli w regen_coldkey`/`btcli w regen_hotkey`)
 
 9. Perform basic actions like check accounts (`w list`) balances (`w inspect`), delagate (`r delegate`) and transfer (`w transfer`)
 
